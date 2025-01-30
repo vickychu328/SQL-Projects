@@ -45,5 +45,3 @@ Welcome to this SQL case study! In this repository, you'll find a project that e
 ## **Contact & Support**
 For questions or suggestions, feel free to open an issue or reach out to me directly. 
 
-**Happy Querying!**
-
